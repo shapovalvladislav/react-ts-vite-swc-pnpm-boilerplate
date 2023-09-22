@@ -1,0 +1,9 @@
+{
+  "login.login": "Увійти",
+  "login.username": "Ім'я користувача",
+  "login.password": "Пароль",
+  "login.username_is_required": "Потрібне ім'я користувача",
+  "login.password_is_required": "Потрібен пароль",
+  "login.login_with_username_and_password": "Увійти за допомогою імені користувача та пароля",
+  "login.close": "Закрити"
+}
